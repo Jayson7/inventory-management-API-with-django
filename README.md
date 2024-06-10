@@ -1,6 +1,6 @@
 # Online Store Inventory and Supplier Management API
 
-### This project doesn't come with authentication as it was not stated in the requirements
+### This project doesn't come with authentication as it was not stated in the requirements.
 
 ## Setup
 
